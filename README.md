@@ -28,7 +28,7 @@ In medical diagnostics, shifting between **Conventional Units** (mg/dL, ng/mL) a
 
 * **Tietz Clinical Guide to Laboratory Tests**
 * **SI Unit International Standards**
-* **Real-world protocols** (based on major Laboratory Networks like *Medyk* & *Diagnostyka*).
+* **Real-world protocols** (based on major Laboratory Networks).
 
 ### ⚡ Key Features
 * **Database of 150+ Parameters:** Covers Biochemistry, Hormones, Tumor Markers, Drugs (TDM), and Toxicology.
@@ -92,4 +92,5 @@ I am building this project entirely on a mobile environment (**Samsung DeX** + *
 ### ⚠️ Medical Disclaimer
 
 *This software is for educational and informational purposes only. While every effort has been made to ensure the accuracy of conversion factors (based on Tietz/SI standards), it should NOT be used for clinical decision-making without verification. Always rely on your validated Laboratory Information System (LIMS).*
+
 
