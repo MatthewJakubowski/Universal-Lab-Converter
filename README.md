@@ -70,11 +70,14 @@ This tool is written in **Pure Python**. No external libraries (`pip install`) a
 ----------------------------------------
 ✅ SI RESULT: 5.27 mmol/L
 ----------------------------------------
-
-
+````````````````````````````````````````
+----------------------------------------
 
 
 ## 👨‍🔬 About the Author
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Mateusz Jakubowski**
 *Medical Analyst (15y exp) ➡️ Aspiring AI Engineer & Python Developer.*
@@ -89,3 +92,4 @@ I am building this project entirely on a mobile environment (**Samsung DeX** + *
 ### ⚠️ Medical Disclaimer
 
 *This software is for educational and informational purposes only. While every effort has been made to ensure the accuracy of conversion factors (based on Tietz/SI standards), it should NOT be used for clinical decision-making without verification. Always rely on your validated Laboratory Information System (LIMS).*
+
