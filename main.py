@@ -7,7 +7,7 @@ import sys
 # Status: Learning Project / Educational Purpose
 # ==============================================================================
 
-# Baza danych oparta na standardach: Tietz Clinical Guide / SI Standards / Protokoly Medyk & Diagnostyka
+# Baza danych oparta na standardach: Tietz Clinical Guide / SI Standards / Protokoly
 lab_database = {
     "01. BIOCHEMIA KLINICZNA (PODSTAWOWA)": {
         "Albumina":            {"factor": 10.0,   "unit_in": "g/dL",  "unit_out": "g/L"},
