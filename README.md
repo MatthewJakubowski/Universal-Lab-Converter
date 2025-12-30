@@ -26,8 +26,8 @@ While the **medical logic, validation, and domain knowledge** (15 years of exper
 ## 🎯 About The Project
 In medical diagnostics, shifting between **Conventional Units** (mg/dL, ng/mL) and **SI Units** (mmol/L, pmol/L) is a daily struggle. This tool automates the process using a massive database of conversion factors based on:
 
-* **[span_0](start_span)Tietz Clinical Guide to Laboratory Tests**[span_0](end_span)
-* **[span_1](start_span)SI Unit International Standards**[span_1](end_span)
+* **Tietz Clinical Guide to Laboratory Tests**
+* **SI Unit International Standards**
 * **Real-world Clinical Protocols** (Serum, Plasma, Urine, CSF).
 
 ### ⚡ Key Features (v2.0 Update)
@@ -99,6 +99,7 @@ I am building this project entirely on a mobile environment (**Samsung DeX** + *
 ### ⚠️ Medical Disclaimer
 
 *This software is for educational and informational purposes only. While every effort has been made to ensure the accuracy of conversion factors (based on Tietz/SI standards), it should NOT be used for clinical decision-making without verification. Always rely on your validated Laboratory Information System (LIMS).*
+
 
 
 
